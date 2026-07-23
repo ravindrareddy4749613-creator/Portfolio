@@ -67,7 +67,7 @@ section {
 
 .hero-text h1 {
   font-size: clamp(38px, 4vw, 55px);
-  color: chocolate;
+  color: rgb(30, 210, 60);
   margin-bottom: 25px;
   font-family: "Playfair Display", serif;
 }
